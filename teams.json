@@ -132,23 +132,23 @@
       "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Aemeath_Cartethyia_Denia.json",
       "codes": [
         {
-          "filename": "Aemeath_Cartethyia_Denia_なななのです_1.0.0.zip",
-          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Aemeath_Cartethyia_Denia_%E3%81%AA%E3%81%AA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%99_1.0.0.zip",
-          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Aemeath_Cartethyia_Denia_%E3%81%AA%E3%81%AA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%99_1.0.0.zip",
+          "filename": "Aemeath_Cartethyia_Denia_なななのです_1.1.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Aemeath_Cartethyia_Denia_%E3%81%AA%E3%81%AA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%99_1.1.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Aemeath_Cartethyia_Denia_%E3%81%AA%E3%81%AA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%99_1.1.0.zip",
           "name": "Aemeath_Cartethyia_Denia",
-          "description": "【4C速刷】【矩阵】【高链】高链爱弥斯队：开战确认机兵形态→强化重击一炮→闪避取消后摇，怪物死完就停手等下一轮；一炮打不死就进入完整循环轴（爱弥斯/达妮娅互切，一轮约25秒，全程不停普攻）。\n循环：爱R2→达入场A→爱A234 E→达A E→爱A到强化E→达R1 A1234 E1 E2 R2 Q（延奏）→爱Q R1 强化E A234 强化E 强化E接强化重击（炮）→R2→回到开头。\n保护：爱弥斯、达妮娅放了R1就一定打完R2才切人，中途怪死光或转火打空会继续普攻等下一波；R2误判、协奏没满、R1能量不够、炮提前亮等情况都有兜底；副本里连续几秒看不到敌人血条就不再空等，交给框架判定战斗结束。\n1.共鸣链：测试配置6爱2达4卡；一炮带走依赖爱弥斯伤害，只在6链爱弥斯下测试过。卡提希娅不上场，链数不影响\n2.共鸣效率：无需求，100%即可\n3.执行一号位：爱弥斯（编队1爱2达3卡）；开战时在场的不是爱弥斯也会自动切给她开场\n4.自动切换治疗位：无需开启（队伍里没有治疗）\n5.备注：卡提希娅只单挂，不会被切上场；战斗结束后爱弥斯留在场上；F吸收声骸变回人形态后，下一场开打会自动按E变回机兵；副本（无音区、巢穴、领域）进图后会自动等强化重击刷新再开炮，不需要手动先站一阵；副本开场那一炮出伤前会按住CAPS LOCK 4秒，不需要的话把Aemeath.py里的CAPS_HOLD_TIME改成0；队伍没有治疗，长时间连续刷取血量会下降，必要时手动回血\n6.场景：【4C速刷】【矩阵】；日常副本（无音区、残象聚落/梦魇巢穴）已实测可用，凝素领域、模拟领域还没测，所以暂不标【日常】\n感谢Claude感谢Opus5.5，当然也感谢作者的ok-ww",
+          "description": "【满链4C速刷】【副本一炮穿怪】高链爱弥斯队。\n4C：开炮→击杀Boss→原地等Boss刷新（期间顺手捡声骸）→锁敌→普攻一下→开炮，循环刷取；不走框架的找声骸、点重新开始流程（进战斗8秒后buff不满，伤害骤降，框架流程赶不上）。一炮没打死就爱弥斯/达妮娅互切，进入完整循环轴。\n日常副本&聚落：进图后自动等强化重击刷新，E变机兵开炮，出伤前长按CAPS LOCK。\n1.共鸣链：测试配置6爱3达6卡；非6爱也能用，但刚需3达（达妮娅流程是R1→A1234→E1E2R2Q，非3达这里R2不满，做了兜底，会一直打到R2满）；非6爱一炮伤害可能穿不完\n2.共鸣效率：测试值爱弥斯111.6%，达妮娅121.6%\n3.执行一号位：爱弥斯（编队1爱2达3卡）；开战时在场的不是爱弥斯也会自动切给她开场\n4.自动切换治疗位：不开启（队伍里没有治疗）\n5.备注：卡提希娅只单挂，不会被切上场；副本开场那一炮出伤前会长按CAPS LOCK，不需要的话把Aemeath.py里的CAPS_HOLD_TIME改成0；队伍没有治疗，长时间连续刷取血量会下降，必要时手动回血\n6.场景：刷4C、日常副本&聚落\n感谢Claude感谢Opus5.5，当然也感谢作者的ok-ww",
           "author": "なななのです",
-          "version": "1.0.0",
+          "version": "1.1.0",
           "team": "Aemeath, Cartethyia, Denia",
           "members": [
             "Aemeath",
             "Cartethyia",
             "Denia"
           ],
-          "size": 23882,
-          "sizeFormatted": "23.32 KB",
-          "timestamp": 1792422680,
-          "modifiedAt": "2026-10-19T15:11:20.000Z"
+          "size": 25734,
+          "sizeFormatted": "25.13 KB",
+          "timestamp": 1792605059,
+          "modifiedAt": "2026-10-21T17:50:59.000Z"
         }
       ]
     },
