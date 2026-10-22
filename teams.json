@@ -630,23 +630,23 @@
       "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Cantarella_Galbrena_Phrolova.json",
       "codes": [
         {
-          "filename": "Cantarella_Galbrena_Phrolova_EEEEEEEEdison_1.0.1.zip",
-          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Cantarella_Galbrena_Phrolova_EEEEEEEEdison_1.0.1.zip",
-          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Cantarella_Galbrena_Phrolova_EEEEEEEEdison_1.0.1.zip",
-          "name": "弗坎嘉 30秒轮椅轴",
-          "description": "【中容错战斗】；坎特蕾拉一号位开，开启关闭自动切换治疗位无影响；最低共鸣效率未测，实测共鸣效率：坎特蕾拉133，嘉贝莉娜133。理论上嘉贝莉娜共鸣效率越高越好。4金应该能打过宝箱怪。",
+          "filename": "Cantarella_Galbrena_Phrolova_EEEEEEEEdison_1.1.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Cantarella_Galbrena_Phrolova_EEEEEEEEdison_1.1.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Cantarella_Galbrena_Phrolova_EEEEEEEEdison_1.1.0.zip",
+          "name": "弗坎嘉 25s",
+          "description": "【中容错战斗】【矩阵】【深塔】；坎特蕾拉一号位开，开启关闭自动切换治疗位无影响；最低共鸣效率未测，实测共鸣效率：坎特蕾拉133，嘉贝莉娜133。理论上嘉贝莉娜共鸣效率越高越好。4金应该能打过宝箱怪。参考视频：https://www.bilibili.com/video/BV1nAC6BRETp/",
           "author": "EEEEEEEEdison",
-          "version": "1.0.1",
+          "version": "1.1.0",
           "team": "Cantarella, Galbrena, Phrolova",
           "members": [
             "Cantarella",
             "Galbrena",
             "Phrolova"
           ],
-          "size": 18913,
-          "sizeFormatted": "18.47 KB",
-          "timestamp": 1791894103,
-          "modifiedAt": "2026-10-13T12:21:43.000Z"
+          "size": 32205,
+          "sizeFormatted": "31.45 KB",
+          "timestamp": 1792660375,
+          "modifiedAt": "2026-10-22T09:12:55.000Z"
         }
       ]
     },
