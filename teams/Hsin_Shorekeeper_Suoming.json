@@ -6,7 +6,7 @@
     "Shorekeeper",
     "Suoming"
   ],
-  "totalCodes": 2,
+  "totalCodes": 3,
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Hsin_Shorekeeper_Suoming.json",
   "codes": [
     {
@@ -27,6 +27,25 @@
       "sizeFormatted": "58.2 KB",
       "timestamp": 1792860979,
       "modifiedAt": "2026-10-24T16:56:19.000Z"
+    },
+    {
+      "filename": "Hsin_Shorekeeper_Suoming_楽山_2.0.0.zip",
+      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Hsin_Shorekeeper_Suoming_%E6%A5%BD%E5%B1%B1_2.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Hsin_Shorekeeper_Suoming_%E6%A5%BD%E5%B1%B1_2.0.0.zip",
+      "name": "Hsin_Shorekeeper_Suoming",
+      "description": "心锁守轮椅轴\n样本：61心01锁21守\n共效：心125锁（轻云/新的心套装皆可）130守260\n位置：一号位守岸人 二号位锁瞑 三号位心\n实机已跑通，容错很多，复现简单",
+      "author": "楽山",
+      "version": "2.0.0",
+      "team": "Hsin, Shorekeeper, Suoming",
+      "members": [
+        "Hsin",
+        "Shorekeeper",
+        "Suoming"
+      ],
+      "size": 66308,
+      "sizeFormatted": "64.75 KB",
+      "timestamp": 1792923779,
+      "modifiedAt": "2026-10-25T10:22:59.000Z"
     },
     {
       "filename": "心锁守轮椅轴日常.zip",
